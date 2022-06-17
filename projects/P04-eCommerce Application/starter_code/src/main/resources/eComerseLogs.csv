@@ -1,7 +1,0 @@
-TIME,CLASS,EVENT
-2022-06-17 15:47:41.876,UserController,"Info: User [neurip] successfully created!"
-2022-06-17 15:49:36.614,UserController,"Exception: User [neuri] Not Found!"
-2022-06-17 15:52:22.073,UserController,"Exception: User was not created, because password is bigger than 7 characters or password not match!"
-2022-06-17 16:17:20.975,CartController,"Exception: Cannot be added to cart. User [neuri] not found!"
-2022-06-17 16:19:34.768,OrderController,"Exception: Cannot create order for User [neuri]. User Not found!"
-2022-06-17 16:20:40.937,OrderController,"Info: Completed order. Order number: [1]"
